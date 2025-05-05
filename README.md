@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hari krishna Ravikumar
 ==============================================================================================================================================
 
-Backend developer and Data
---------------------------
+Backend developer and Data Scientist
+------------------------------------
 
-I am a Software Architect , data science and GenAI enthusiasts
+I am a Software Architect ,data science and GenAI enthusiasts
 
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [harik76@gmail.com](mailto:harik76@gmail.com)
