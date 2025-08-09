@@ -11,7 +11,7 @@ I am a Software Architect ,data science and GenAI enthusiasts
 * 🧠  I'm learning AI Agents and AWS
 * 🤝  I'm open to collaborating on Projects
 
- I have technical experience and interest in:
+#### I have technical experience and interest in:
  
 * Deep Learning
 * Machine Learning
